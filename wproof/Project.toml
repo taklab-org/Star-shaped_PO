@@ -1,0 +1,10 @@
+name = "wproof"
+
+[deps]
+RadiiPolynomial = "f2081a94-c849-46b6-8dc9-07bb90ed72a9"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+[compat]
+RadiiPolynomial = "0.10"
+julia = "1.10"
