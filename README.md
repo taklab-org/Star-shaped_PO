@@ -3,7 +3,7 @@
 This repository contains the Julia code for the computer-assisted proofs in
 
 > S. Motonaga and A. Takayasu, *Star-shaped periodic solutions of a system of delay differential
-> equations: Computer-assisted proof.*
+> equations: A computer-assisted proof.*
 
 We consider the delay differential equation (DDE), written in complex form as
 
